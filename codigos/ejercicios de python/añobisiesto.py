@@ -9,7 +9,6 @@ def año_bisiesto(año):
             return True
     else:
         return False
-for year in range(1900)
-año=int(input("ingrese eñ año"))
-resultado=año_bisiesto(año)
-print(año_bisiesto(año))
+for year in range(1900):
+    año=int(input("ingrese eñ año"))
+    resultado=año_bisiesto(año)
